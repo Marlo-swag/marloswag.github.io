@@ -1,0 +1,75 @@
+body{zoom:135%;}
+
+
+#a123{
+	background-image: url("13.jpg");
+	background-repeat: no-repeat;
+	background-position:20px 20px;
+	background-attachment:fixed;
+	height:597px;
+	opacity:0.5;
+}
+h1{ 
+font-size:35px;
+}
+#menu{
+	text-align: center;
+	border: 4px solid;
+	background-color: black;
+	font-size: 30px;
+	
+}
+.menu_a{color: Cornsilk;
+margin:0px 20px;
+}
+#footer{
+	font-size: 15px;
+
+	
+}
+#a321{
+	width:50%;
+	background-image: url("11.jpg");
+	background-repeat: no-repeat;
+	background-position:20px 20px;
+	background-attachment:fixed;
+	height:600px;
+	float:left;
+}
+.make{color: CadetBlue}
+.make img{height:50px;}
+
+
+
+#popa1{
+    width:50%;
+	background-image: url("tom.jpg");
+	background-repeat: no-repeat;
+	background-position:50px 50px;
+	background-attachment:fixed;
+	height:800px;
+	float:left;
+	
+}
+#jopa{
+    width:50%;
+	background-image: url("aidann.jpg");
+	background-repeat: no-repeat;
+	background-position:50px 50px;
+	background-attachment:fixed;
+	height:800px;
+	float:left;
+	
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
